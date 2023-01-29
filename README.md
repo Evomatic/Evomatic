@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">Coding, Coffee, Lego, and Video games are my jam!</h3>
 
+<p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
+
 - 🌱 I’m currently learning **Next.js and python**
 
 - 👨‍💻 I like to do project challenges on [https://www.frontendmentor.io/home](https://www.frontendmentor.io/home)
