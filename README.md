@@ -3,11 +3,13 @@
 
 <p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
 
-- 🌱 I’m currently learning **Next.js and python**
 
-- 👨‍💻 I like to do project challenges on [https://www.frontendmentor.io/home](https://www.frontendmentor.io/home)
+- 🌱  I’m currently learning **Next.js and python**
 
-- 📫 How to reach me **evantrujillo30@gmail.com**
+- 👨‍💻  I like to do project challenges on [https://www.frontendmentor.io/home](https://www.frontendmentor.io/home)
+
+- 📫  How to reach me **evantrujillo30@gmail.com**
+
 
 
 <h3 align="center">Languages:</h3>
