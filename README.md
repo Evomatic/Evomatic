@@ -6,7 +6,9 @@
 
 - 🌱  I’m currently learning **Next.js and python**
 
-- 👨‍💻  I like to do project challenges on [https://www.frontendmentor.io/home](https://www.frontendmentor.io/home)
+- 👨‍💻  I like to do project challenges on [frontendmentor](https://www.frontendmentor.io/home)
+
+- 🧠 I like learning new programming languages on [Exercism](https://exercism.org/profiles/Evomatic)
 
 - 📫  How to reach me **evantrujillo30@gmail.com**
 
