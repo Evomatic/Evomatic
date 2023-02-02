@@ -4,11 +4,9 @@
 <p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
 
 
-- 🌱  I’m currently learning **Next.js and python**
+- 🌱  I’m currently learning **TypeScript** on [Exercism](https://exercism.org/profiles/Evomatic)
 
 - 👨‍💻  I like to do project challenges on [frontendmentor](https://www.frontendmentor.io/home)
-
-- 🧠 I like learning new programming languages on [Exercism](https://exercism.org/profiles/Evomatic)
 
 - 📫  How to reach me **evantrujillo30@gmail.com**
 
