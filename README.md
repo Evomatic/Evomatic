@@ -4,7 +4,7 @@
 <p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
 
 
-- 🌱  I’m currently learning **TypeScript** on [Exercism](https://exercism.org/profiles/Evomatic)
+- 🌱  I’m currently practicing **TypeScript** on [Exercism](https://exercism.org/profiles/Evomatic) and [Udemy](https://www.udemy.com/user/evan-trujillo/)
 
 - 👨‍💻  I like to do project challenges on [frontendmentor](https://www.frontendmentor.io/home)
 
