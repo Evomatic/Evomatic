@@ -4,9 +4,11 @@
 <p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
 
 
-- 🌱  I’m currently learning on [Exercism](https://exercism.org/profiles/Evomatic)
+- 🌱  I’m learning on [Exercism](https://exercism.org/profiles/Evomatic)
 
 - 👨‍💻  I like to do project challenges at [frontendmentor](https://www.frontendmentor.io/home)
+
+- I enjoy contributing to [bestofjs](https://github.com/bestofjs/bestofjs)
 
 - 📫  How to reach me **evantrujillo30@gmail.com**
 
