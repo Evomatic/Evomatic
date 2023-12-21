@@ -8,7 +8,7 @@
 
 - 👨‍💻  I like to do project challenges on [frontendmentor](https://www.frontendmentor.io/home)
 
-- 💁🏻  I enjoy contributing to [bestofjs](https://github.com/bestofjs/bestofjs)
+- 💁🏻  I am a core contributor to [bestofjs](https://github.com/bestofjs/bestofjs)
 
 - 📫  How to reach me **evantrujillo30@gmail.com**
 
