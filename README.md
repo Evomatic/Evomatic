@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋👨‍💻, I'm Evan</h1>
+<h1 align="center">Hi 👋, I'm Evan 👨‍💻</h1>
 <h3 align="center">Coding, Coffee, Lego, and Video games are my jam!</h3>
 
-<p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from the ground up and collaborate with other developers to solve problems.</p>
+<p align="center">I am a full-stack software engineer living in Tokyo Japan. I love to build projects from concept to completion and collaborate with other developers to find solutions to challenging problems.</p>
 
 
-- 🌱  I’m learning on [Exercism](https://exercism.org/profiles/Evomatic)
+- 🌱  I’m learning new languages on [Exercism](https://exercism.org/profiles/Evomatic)
 
-- 👨‍💻  I like to do project challenges on [frontendmentor](https://www.frontendmentor.io/home)
+- 👨‍💻  I like to build projects from [frontendmentor](https://www.frontendmentor.io/home)
 
-- 💁🏻  I am a core contributor to [bestofjs](https://github.com/bestofjs/bestofjs)
+- 💁🏻  I love to contribute to open-source projects like [bestofjs](https://github.com/bestofjs/bestofjs)
 
 - 📫  How to reach me **evantrujillo30@gmail.com**
 
