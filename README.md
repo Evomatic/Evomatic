@@ -8,7 +8,7 @@
 
 - 👨‍💻  I like to build projects from [frontendmentor](https://www.frontendmentor.io/home)
 
-- 💁🏻  I'm a core-contributor to [bestofjs](https://github.com/bestofjs/bestofjs)
+- 💁🏻  I like contributing to open-source [bestofjs](https://github.com/bestofjs/bestofjs)
   
 
 <h3 align="center">Languages:</h3>
